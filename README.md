@@ -1,3 +1,3 @@
-# hello_word
+# hello_world
 trabajo para informatica aplicada
 Hola soy Walter Fernandez
